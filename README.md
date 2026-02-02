@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @macropenguin
 - 👀 I’m interested in simple hobby programming :)
-- 🌱 I’m currently learning python, as that's what school offers
+- 🌱 I’m currently coding in zig, because I need speed like C but good features.
 - 😄 Pronouns: he/him
 
 <!---
